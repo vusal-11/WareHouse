@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdIQK3cTbwYlpefHRwsHsApVbcsWAh8bOaK/Zc6tWQH3fayN0IuQtF7voBv7VHVzYpqin2hwjpzAUYxOk6KPZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\FinalExamWareHouse_Update\\FinalExamWareHouse\\FinalExamWareHouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\materialskin.updated\\0.2.2\\materialskin.updated.0.2.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MaterialSkin.Updated 0.2.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MaterialSkin.Updated",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
